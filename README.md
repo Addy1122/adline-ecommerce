@@ -22,18 +22,19 @@ This is a simple e-commerce web application built with React and Tailwind CSS. I
 1. **Clone the repository**:
   
    git clone https://github.com/Addy1122/adline-ecommerce.git
+   
    cd ecommerce-react-app
    
-2. Install dependencies:
+3. Install dependencies:
 
     npm install
 
-3. Start JSON Server:
+4. Start JSON Server:
 
     npx json-server --watch db.json --port 3002
 
-4. Start the development server:
+5. Start the development server:
 
     npm start
 
-5. Open your browser and navigate to http://localhost:3000
+6. Open your browser and navigate to http://localhost:1235
