@@ -10,7 +10,7 @@ import Newarrival from './components/Newarrival';
 import Brand from './components/Brand';
 import Newsletter from './components/Newsletter';
 import Footer from './components/Footer';
-import Productlist from './components/productlist';
+import Productlist from './components/Productlist';
 import Navbar from './components/Navbar';
 import Card from './components/screen/Card';
 import Furniture from './components/screen/Furniture';
