@@ -1,7 +1,7 @@
 {
   "name": "reacttraining",
   "version": "1.0.0",
-  "main": "index.html",
+
   "type": "module",
   "scripts": {
     "start": "parcel index.html --port 1235",
